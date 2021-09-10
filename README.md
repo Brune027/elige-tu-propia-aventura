@@ -1,7 +1,8 @@
 # Elige tu propia aventura - Entregable de Frontend III - Certified Tech Developer
+
 Este es el proyecto entregable "Elige tu propia aventura" de la materia Frontend III
 
-Enlace a Codesandbox: 
+Enlace a Codesandbox: [https://codesandbox.io/s/elige-tu-propia-aventura-j2xio](https://codesandbox.io/s/elige-tu-propia-aventura-j2xio)
 
 Enlace a GitHub Pages: [https://brune027.github.io/elige-tu-propia-aventura](https://brune027.github.io/elige-tu-propia-aventura)
 
