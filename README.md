@@ -2,6 +2,7 @@
 Este es el proyecto entregable "Elige tu propia aventura" de la materia Frontend III
 
 Enlace a Codesandbox: 
+
 Enlace a GitHub Pages: [https://brune027.github.io/elige-tu-propia-aventura](https://brune027.github.io/elige-tu-propia-aventura)
 
 # Getting Started with Create React App
